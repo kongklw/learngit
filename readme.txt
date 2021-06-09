@@ -4,3 +4,4 @@ world
 apple
 banana
 watermelon
+add pear
